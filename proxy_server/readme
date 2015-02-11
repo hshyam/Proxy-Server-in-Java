@@ -1,0 +1,17 @@
+Harshita Shyam
+4404640
+CSCI 4131 Assignment 7
+
+To run the program:
+
+javac ProxyServer.java
+javac Main.java
+
+java Main config.txt port number (right now it is 50024 on
+remote04.cselabs.umn.edu)
+
+Then open in the browser (for example: www.yahoo.com). For the first time you
+can see in console that proxy get files from original server. But if you refresh web
+page in browser, you can see that proxy gets files from cache. Also you can see
+this log information in log file, called “application_log.txt”.
+

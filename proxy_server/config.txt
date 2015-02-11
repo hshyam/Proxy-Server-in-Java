@@ -1,0 +1,7 @@
+# Filename: config.txt
+# Description: This is the config file for proxy server
+# Author: Harshita Shyam
+# Date: May 2, 2014
+
+www.imgur.com
+www.gnu.org img/png
